@@ -38,8 +38,6 @@ module FunWithStrings
       counter += 1
     end
     }
-    
-    puts returnArr
           
     return returnArr
   end
